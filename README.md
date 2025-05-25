@@ -108,4 +108,7 @@ Access in browser:
 [http://<EC2-IP>:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/](http://3.72.251.198:8001/api/v1/namespaces/kubernetes-dashboard/services/http:kubernetes-dashboard:/proxy/#/pod?namespace=default)
 🖼️ Kubernetes Dashboard View
 
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/4a6d696a-82d7-46df-9218-b42f3d39fed7" />
+
+
 
